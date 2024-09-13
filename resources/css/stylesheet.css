@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000;
+    text-align: center;
+}
+
+header h1{
+    font-size: 50px;
+    color: white;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+
+}
+
+.subscript {
+    font-size: 21px;
+    color: #808080;
+}
+
+footer p{
+    text-align: right;
+    font-size: 21px;
+    color: #808080;
+}
+
+nav{
+    color: #7fffd4;
+    font-size: 16px;
+}
+
+.center{
+    display: flex;
+    justify-content:center;
+    overflow: hidden;
+}
+
+.container{
+    margin: 20px;
+}
